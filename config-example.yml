@@ -1,0 +1,8 @@
+# All values are string
+access_key_id:
+secret_access_key:
+key_pair:
+snapshot_id:
+image_id:
+instance_type:
+availability-zone:
