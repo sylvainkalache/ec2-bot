@@ -1,0 +1,3 @@
+Simple script to launch an instance an attach an EBS volume to it that is created from a snapshot.
+
+Using aws-sdk v2
