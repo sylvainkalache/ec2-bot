@@ -1,3 +1,10 @@
+# What is that for?
 Simple script to launch an instance an attach an EBS volume to it that is created from a snapshot.
+
+# Requirements
+
+* Ruby (tested under v2.1.2)
+* Bundler
+* Fill the config.yml file
 
 Using aws-sdk v2
