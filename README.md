@@ -1,15 +1,15 @@
 # What is that for?
-Simple script to launch an instance an attach an EBS volume to it that is created from a snapshot.
+Simple script to launch an instance an attach an EBS volume to it that is created from a snapshot and mount it on the instance.
 
 # Requirements
 
 * Ruby (tested under v2.1.2)
 * Bundler
-* Fill the config.yml file
+* aws-sdk v2
+* SSH key pair that is configured with AWS
+* 5 minutes of your time
 
-Using aws-sdk v2
-
-# How to us
+# How to use
 
 * run `bundle install`
 * create a config.yml file `cp config-example.yml config.yml`
