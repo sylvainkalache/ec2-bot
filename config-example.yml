@@ -1,8 +1,10 @@
-# All values are string
+# All values are string and mandatory
 access_key_id:
 secret_access_key:
 key_pair:
 snapshot_id:
-image_id:
-instance_type:
-availability-zone:
+image_id: ami-fc5e7594
+instance_type: m3.medium
+availability-zone: us-east-1e
+security_group_ids:
+ebs_device: /dev/xvdf
