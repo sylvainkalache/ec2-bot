@@ -16,6 +16,7 @@ GEM
     json (1.8.2)
     multi_json (1.11.0)
     multi_xml (0.5.5)
+    net-ssh (2.9.2)
 
 PLATFORMS
   ruby
@@ -23,3 +24,4 @@ PLATFORMS
 DEPENDENCIES
   aws-sdk (~> 2)
   json
+  net-ssh
